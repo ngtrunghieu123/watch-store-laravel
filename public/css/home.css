@@ -1,0 +1,29 @@
+/* Nền chính của block sản phẩm */
+.bg-faded-info {
+    background-color: #f56c8c !important;
+    /* Hồng đậm nhẹ, không quá sáng */
+}
+
+/* Nút CTA */
+.btn-accent {
+    background-color: #e5486d;
+    color: #fff;
+    border: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-accent:hover {
+    background-color: #c93b5f;
+    color: #fff;
+}
+
+/* Badge khuyến mãi */
+.badge.bg-danger {
+    background-color: #ff3f5f;
+}
+
+/* Viền ảnh sản phẩm */
+.img-fluid {
+    border: 2px solid #fcd4de;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}

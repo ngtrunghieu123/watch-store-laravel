@@ -1,0 +1,17 @@
+.product-gallery {
+    background: #fff;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.product-gallery-preview {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+
+.image-zoom {
+    width: 100%;
+    text-align: center;
+}
